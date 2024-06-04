@@ -6,27 +6,27 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
-    name: "Thankful Thoughts",
+    name: "FullStack-Portal",
     description:
-      "ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.",
-    image: "/thankfulthoughts.png",
-    github: "https://github.com/hqasmei/thankful-thoughts",
-    link: "https://thankfulthoughts.io/",
+      "Student Dashboard: The Cohort-Based Learning Platform is an online education platform that offers structured learning experiences through cohort-based programs. Users can enroll in cohorts, navigate courses, track their progress, Resume Creation, Mock Interviews and collaborate with peers on capstone projects. The platform prioritizes intuitive user interface design, timely notifications, and community engagement to enhance the learning experience.",
+    image: "/Untitled 2.jpg",
+    github: "https://github.com/SyedSaadh1/FullStack_Portal",
+    link: "fullstack-portal.vercel.app",
   },
   {
-    name: "PlatoIO",
-    description: "PlatoIO is a to do list app that built using the PERN stack.",
-    image: "/platoio.png",
-    github: "https://github.com/hqasmei/platoio",
-    link: "https://platoio.com/register",
+    name: "Online Resume Upload User Interface (UI)",
+    description: "This project provides a user-friendly interface for uploading files using React and Next.js.",
+    image: "/Untitled 2.png",
+    github: "https://github.com/SyedSaadh1/Online-Resume-Upload-Interface",
+    link: "https://online-resume-upload-interface.vercel.app",
   },
   {
-    name: "Kator Family Photos",
+    name: "Prediction Of House Pricing Using MachineLearning With Python",
     description:
-      "Kator Family Photos is a photos and video digitization service in the LA area.",
-    image: "/familyphotos.png",
-    github: "https://github.com/hqasmei/katorfamilyphotos",
-    link: "https://katorfamilyphotos.com/",
+      "House price prediction is the process of using statistical models and machine learning algorithms to predict the price of a house. The models are trained on historical data that includes information about the house (e.g., square footage, number of bedrooms and bathrooms, location) and other factors that may affect the price (e.g., interest rates, economic conditions). The goal is to create a model that can accurately predict the price of a house based on these factors.",
+    image: "/project prediction.png",
+    github: "https://github.com/SyedSaadh1/Prediction_Of_House_Pricing_Using_MachineLearning_With_Python",
+    link: "https://colab.research.google.com/drive/18wmKDSzhv3TtHqz5nm491XSc200sWJ0Q#scrollTo=laCkZiNFv9dN",
   },
 ]
 
